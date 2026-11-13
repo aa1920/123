@@ -1,0 +1,16 @@
+.sites-runtime/
+.wrangler/
+.env*
+outputs/
+photo-research/
+photo-research.json
+photo-research.cjs
+collect-photos.cjs
+download-photos.cjs
+finish-photos.cjs
+verified-plan.json
+preview*
+nankai-*.png
+*.zip
+*.tar.gz
+漫旅App.html
